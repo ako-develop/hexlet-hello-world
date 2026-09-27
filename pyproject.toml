@@ -3,7 +3,7 @@ name = "hexlet-hello-world"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.14"
 dependencies = [
     "more-itertools>=11.1.0",
 ]
